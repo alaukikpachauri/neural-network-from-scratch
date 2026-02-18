@@ -59,4 +59,45 @@ The decision boundary is plotted using Matplotlib to observe how the classifier 
 ## 🚀 How to Run
 
 1. Clone the repository
+   git clone https://github.com/alaukikpachauri/neural-network-from-scratch.git
+2. Install dependencies
+   pip install -r requirements.txt
+3. Run the notebook
+   jupyter notebook Ann_assignment.ipynb
+
+
+---
+
+## 📁 Repository Structure
+
+neural-network-from-scratch/
+│
+├── notebooks/
+│   └── ann_perceptron_and_gate.ipynb
+│
+├── docs/
+│   └── PROBLEM_STATEMENT.md
+│
+├── README.md
+├── requirements.txt
+└── .gitignore
+
+
+---
+
+## 🔮 Future Work
+- Implement XOR classification
+- Add sigmoid activation
+- Multi-layer perceptron
+- Backpropagation
+- Gradient descent visualization
+
+---
+
+## 👨‍💻 Author
+**Alaukik Pachauri**
+
+Aspiring Machine Learning Engineer | Learning Neural Networks, Transformers & AutoML
+
+
 
