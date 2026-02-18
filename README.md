@@ -74,12 +74,15 @@ neural-network-from-scratch/
 
 ├── notebooks/
    └── ann_perceptron_and_gate.ipynb
-│
+
+
 ├── docs/
-│   └── PROBLEM_STATEMENT.md
+   └── PROBLEM_STATEMENT.md
 
 ├── README.md
+
 ├── requirements.txt
+
 └── .gitignore
 
 
