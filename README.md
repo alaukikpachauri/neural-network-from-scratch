@@ -71,13 +71,13 @@ The decision boundary is plotted using Matplotlib to observe how the classifier 
 ## 📁 Repository Structure
 
 neural-network-from-scratch/
-│
+
 ├── notebooks/
-│   └── ann_perceptron_and_gate.ipynb
+   └── ann_perceptron_and_gate.ipynb
 │
 ├── docs/
 │   └── PROBLEM_STATEMENT.md
-│
+
 ├── README.md
 ├── requirements.txt
 └── .gitignore
